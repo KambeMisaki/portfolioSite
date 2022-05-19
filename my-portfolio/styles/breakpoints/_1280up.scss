@@ -1,0 +1,14 @@
+
+.about {
+  &__inner {
+    padding: 50px 150px;
+  }
+}
+.works {
+  &__item {
+    flex-basis: 23%;
+  }
+}
+.side {
+  display: block;
+}
